@@ -37,7 +37,7 @@ Depois de instalar todas as dependencias, conecte-se ao MariaDB / MySQL e crie u
     php artisan db:seed
 ```
 
-E para deixa-lo online:
+Depois duplique o **.env.example** e renomeie para: **.env** e GG. Você já pode ligar a aplicação com o comando:
 
 ```sh
     php artisan serve
