@@ -52,7 +52,7 @@ Depois duplique o **.env.example** e renomeie para: **.env** e GG. Você já pod
 Para realizar os testes, crie um banco de dados chamado: **php_challenge_test** e execute o seguinte comando na raiz do projeto:
 
 ```sh
-    $ vendor/bin/phpunit
+    vendor/bin/phpunit
 ```
 
 ## Observações:
