@@ -53,9 +53,14 @@ Para realizar os testes, crie um banco de dados chamado: **php_challenge_test** 
 
 ## Observações:
 
-Cartão aceito: 2672872851579012 CCV 123
-Cartão recusado: 7339526258668625 CCV 555
-Cartão aleatorio: 5122245908042818 CCV 321
+- Cartão aceito: 2672872851579012 CCV 123
+- Cartão recusado: 7339526258668625 CCV 555
+- Cartão aleatorio: 5122245908042818 CCV 321
 
 ## Screenshots:
 
+![](https://i.imgur.com/V813j6U.jpg)
+![](https://i.imgur.com/oB1XKA4.jpg)
+![](https://i.imgur.com/fapWfFR.jpg)
+![](https://i.imgur.com/dyg3mkC.jpg)
+![](https://i.imgur.com/QR7uoOE.jpg)

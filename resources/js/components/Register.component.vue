@@ -323,7 +323,7 @@ export default {
         },
         currentPhone: function(newPhone, oldPhone) {
             if(newPhone) {
-                this.validation.invalidCurrentPhone = this.currentPhone.replace(/[`~!@#$%^&*()_|+\-=?;:'",.<>\{\}\[\]\\\/]/gi, '').length < 10
+                this.validation.invalidCurrentPhone = this.currentPhone.replace(/[`~!@#$%^&*()_|+\-=?;:'",.<>\{\}\[\]\\\/]/gi, '').length < 11
             }
         }
     },

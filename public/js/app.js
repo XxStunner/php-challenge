@@ -2380,7 +2380,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
     },
     currentPhone: function currentPhone(newPhone, oldPhone) {
       if (newPhone) {
-        this.validation.invalidCurrentPhone = this.currentPhone.replace(/[`~!@#$%^&*()_|+\-=?;:'",.<>\{\}\[\]\\\/]/gi, '').length < 10;
+        this.validation.invalidCurrentPhone = this.currentPhone.replace(/[`~!@#$%^&*()_|+\-=?;:'",.<>\{\}\[\]\\\/]/gi, '').length < 11;
       }
     }
   },
